@@ -17,4 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-Slides: https://docs.google.com/presentation/d/1pOtPeM6NapC2J8KJwg8fSiBlXGHa2QA60K2ACj1Az08/edit?usp=sharing
+Day 1 presentation: 
+https://docs.google.com/presentation/d/1pOtPeM6NapC2J8KJwg8fSiBlXGHa2QA60K2ACj1Az08/edit?usp=sharing
